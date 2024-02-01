@@ -16,14 +16,9 @@ Gunakan Markup HTML atau Markdown:
 HTML: Jika Anda menggunakan markup HTML, gunakan tag <img> dengan atribut src untuk menunjukkan lokasi gambar. Contohnya:
 
 html
-Copy code
-<img src="/assets/images/nama-gambar.jpg" alt="Deskripsi Gambar">
 Markdown: Jika Anda lebih suka menggunakan Markdown, Anda dapat menggunakan sintaks berikut:
 
 markdown
-Copy code
-![Alt Text](/assets/images/nama-gambar.jpg)
-Berikan Deskripsi Alternatif (Alt Text):
 Penting untuk menyediakan deskripsi alternatif untuk gambar dengan menggunakan atribut alt. Deskripsi ini membantu aksesibilitas dan SEO. Gantilah "Deskripsi Gambar" atau "Alt Text" dengan deskripsi yang relevan.
 
 Periksa Tautan Gambar:
