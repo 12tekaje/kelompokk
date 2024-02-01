@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "menambahkan gambar di jekyll"
-date: 20-01-25 13:45:49 +0800
+date: 2024-02-01 13:45:49 +0800
 categories: github
 ---
 
